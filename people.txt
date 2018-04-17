@@ -1,6 +1,2 @@
-q:q:
-< HEAD
 venkat master
-=======
-rvenkat develop
->>>>>>> develop
+
